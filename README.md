@@ -1,0 +1,2 @@
+# Dasmoto-s-Arts-Crafts
+Started doing independent tasks from codecademy courses. You need to create a site yourself according to a certain example and page styles https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg?_gl=1*14o7g01*_ga*MjI5MTM4NzIxLjE2NTY4MDYxODA.*_ga_3LRZM6TM9L* MTY1OTg5NTg2OC4zMC4xLjE2NTk4OTYzMjMuNTk.  These are my first steps in creating a site on my own, so I will be grateful for advice, criticism and words of encouragement. Thank you all in advance.
